@@ -1,0 +1,24 @@
+{
+  "name": "m4-th-xd-app-dang-ki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kienbui195/M4-TH-XD-App-Dang-Ki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kienbui195/M4-TH-XD-App-Dang-Ki/issues"
+  },
+  "homepage": "https://github.com/kienbui195/M4-TH-XD-App-Dang-Ki#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
